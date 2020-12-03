@@ -6,4 +6,4 @@ No warrantee is provided regarding the contained information and it is not inten
 
 ## Contact
 
-Please either open an issue or [email](mailto:psych-quiz-contact@shoryuken.me&subject=Readme) me.
+Please either open an issue or [email](mailto:psych-quiz-contact@shoryuken.me) me.
